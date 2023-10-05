@@ -1,0 +1,112 @@
+body {
+    background-color: #1818d4;
+    margin: 0;
+    border: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.contenedor {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+    height: 250px;
+    box-shadow: 0px 5px 10px rgb(215, 218, 224);
+}
+
+
+img {
+    width: 70px;
+    height: 70px;
+    margin: 2rem;
+}
+
+
+header #pago {
+    display: flex;
+    position: absolute;
+    right: 830px;
+    top: 250px;
+    font-size: 20px
+    
+}
+
+
+header #gracias {
+    display: flex;
+    position: absolute;
+    right: 880px;
+    top: 300px;
+
+}
+
+
+aside #descargar {
+    margin: 10px;
+    margin-left: 5px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #2144df;
+    color: antiquewhite;
+    display: flex;
+    width: 90px;
+    justify-content: center;
+    position: absolute;
+    right: 400px;
+    border: 1px solid blue;
+    
+}
+ 
+aside #volver {
+    margin: 10px;
+    margin-right: 5px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    color: #0e0d0d;
+    display: flex;
+    width: 90px;
+    justify-content: center;
+    position: absolute;
+    right: 250px;
+    border: 1px solid #292727;
+    
+}
+
+aside #volver:hover {
+    background-color: #9a9ab9;
+}
+    
+aside #descargar:hover {
+    background-color: #0b0b;
+}
+
+
+
+    
+
+    
+
+
+
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+
+
+
